@@ -1,3 +1,6 @@
+Sup dawg? 
+<img alt="GIF" src="https://github.com/imps1001/imps1001/blob/main/Assets/Hi.gif" width="29px">
+
 ### Hi there 👋
 
 <!--
